@@ -1,5 +1,5 @@
 .par{
-	background-image: url("image/bat.jpg"); 
+	background-image: url("bat.jpg"); 
 	 
 	 height: 550px; 
 	  background-attachment: fixed;
@@ -8,7 +8,7 @@
     background-size: cover;
 }
 .par3{
-	background-image: url("image/web.jpg"); 
+	background-image: url("web.jpg"); 
 	 
 	 height: 300px; 
 	  background-attachment: fixed;
@@ -32,7 +32,7 @@ table{
 }
 .par1{
 
-	background-image: url("image/black.jpg"); 
+	background-image: url("black.jpg"); 
 	 height: 600px; 
 	  background-attachment: fixed;
     background-position: center;
@@ -42,7 +42,7 @@ table{
 
 }
 .par2{
-	background-image: url("image/back.jpg"); 
+	background-image: url("back.jpg"); 
 	 height: 600px; 
 	  background-attachment: fixed;
     background-position: center;
