@@ -1,0 +1,88 @@
+.par{
+	background-image: url("image/bat.jpg"); 
+	 
+	 height: 550px; 
+	  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.par3{
+	background-image: url("image/web.jpg"); 
+	 
+	 height: 300px; 
+	  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+	color: #ECEFF1;
+	text-align: center;
+	padding-top: 50px;
+}
+table{
+	 
+	 height: 530px; 
+	  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.par1{
+
+	background-image: url("image/black.jpg"); 
+	 height: 600px; 
+	  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+
+}
+.par2{
+	background-image: url("image/back.jpg"); 
+	 height: 600px; 
+	  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec{
+
+	background-color:white;
+
+	font-size:18px;
+	text-align: center;
+	border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.sec2{
+	background-color: #FFF9C4;
+	font-size:15px;
+	border: 1px solid black;
+	text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+.sec1{
+	background-color: #FBE9E7;
+	font-size:15px;
+	border: 1px solid black;
+	text-align: center;
+    padding: 10px;
+    
+    margin: 0px;
+}
+.logo{
+	position: fixed;
+	float: left;
+}
+img{
+	border-radius: 25px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
